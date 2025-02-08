@@ -1,5 +1,5 @@
 # RAG Test Project 2
-This project is based on the "Build a Retrieval Augmented Generation (RAG) App: Part 1" tutorial from LangChain. It implements a generative AI chat system that allows document uploads and retrieves information based on the uploaded content.
+This project is based on the "Build a Retrieval Augmented Generation (RAG) App: Part 2" tutorial from LangChain. It implements a generative AI chat system that allows document uploads and retrieves information based on the uploaded content.
 
 ## 🚀 Tech Stack
 - Node.js
